@@ -18,5 +18,6 @@ def index(request):
 
 
 # TODO: Aqui é a página que será redirecionada após receber a URL do passo anterior
+# FIXME: Caso o usuário queira fazer o download de um vídeo daqui, ele não vai conseguir.
 def result(request):
     return render(request, 'result.html')
