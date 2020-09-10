@@ -1,0 +1,9 @@
+/colorlib-search-1
+/colorlib-search-3
+/home/migrations
+/home/forms.py
+/home/models.py
+/venv
+*.sqlite3
+*.txt
+*.webm
