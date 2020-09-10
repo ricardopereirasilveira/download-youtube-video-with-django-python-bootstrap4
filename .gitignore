@@ -3,7 +3,7 @@
 /home/migrations
 /home/forms.py
 /home/models.py
-/venv
+*/venv
 *.sqlite3
 *.txt
 *.webm
