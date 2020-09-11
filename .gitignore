@@ -1,6 +1,6 @@
-/colorlib-search-1
-/colorlib-search-3
-/home/migrations
+*/colorlib-search-1
+*/colorlib-search-3
+/home/migrations/*.py
 /home/forms.py
 /home/models.py
 */venv
@@ -9,4 +9,4 @@
 *.webm
 static/images/
 static/video/
-venv/include/
+venv/*
