@@ -1,12 +1,14 @@
-*/colorlib-search-1
-*/colorlib-search-3
+/colorlib-search-1
+/colorlib-search-3
 /home/migrations/*.py
 /home/forms.py
 /home/models.py
-*/venv
+/venv
 *.sqlite3
 *.txt
 *.webm
 static/images/
 static/video/
 venv/*
+*.idea
+*.DS_Store
