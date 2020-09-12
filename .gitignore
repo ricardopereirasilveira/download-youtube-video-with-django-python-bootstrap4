@@ -9,6 +9,5 @@ venv/
 static/images/
 static/video/
 *.sqlite3
-*.txt
 *.webm
 *.DS_Store
