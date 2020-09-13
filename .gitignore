@@ -10,4 +10,5 @@ static/images/
 static/video/
 *.sqlite3
 *.webm
+*.mp4
 *.DS_Store
